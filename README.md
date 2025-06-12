@@ -43,11 +43,6 @@ tic-tac-toe/
 
 ---
 
-## 📸 Preview
-
-![Game Screenshot](https://via.placeholder.com/400x300?text=Tic-Tac-Toe+Dark+Theme) <!-- Replace with actual screenshot if available -->
-
----
 
 ## 📌 To-Do (Optional Enhancements)
 
@@ -60,7 +55,7 @@ tic-tac-toe/
 
 ## 📃 License
 
-This project is open source and free to use under the [MIT License](LICENSE).
+This project is open-source and free to use for any purpose.
 
 ---
 
